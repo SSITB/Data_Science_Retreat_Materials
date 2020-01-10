@@ -1,0 +1,7 @@
+So, to have it running locally, you need to follow these steps:
+1) Clone the repo: git clone https://github.com/dvgodoy/ML_Fundamentals.git (Already done, Crosslend people..) 
+2) Inside the folder of the clone repo, create a conda environment: conda env create -f environment.yml -n fund
+3) Activate the virtual environment: conda activate fund
+4) Run Jupyter: jupyter notebook
+
+Obs.: environment.yml is conda's equivalent of requirements.txt
