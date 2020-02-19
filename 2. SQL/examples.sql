@@ -8,12 +8,6 @@ FROM
 
 
 
-
-
-
-
-
-
   ;
 
 --- WITH example (SQL Operations 9/9): List all rented movies titles with the customer names
